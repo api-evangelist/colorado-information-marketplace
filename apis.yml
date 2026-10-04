@@ -39,7 +39,6 @@ apis:
   - name: Colorado Information Marketplace
     description: "Colorado State Government Open Data"
     humanURL: https://data.colorado.gov/
-    baseURL: https://data.colorado.gov/
     tags:
       - Government
     properties:
